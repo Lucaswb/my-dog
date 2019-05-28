@@ -1,12 +1,12 @@
 # dog page
 #### fun interesting facts about dogs
 
-####_By Lucas Blasdel & Serhiy Savchuks_
+#### _By Lucas Blasdel & Serhiy Savchuks_
 
 ## Description:
  This webpage will keep you updated with the latest and most current information regarding your canine pals
 
-##Setup/Installation requirements:
+## Setup/Installation requirements:
 unfortunately we havn't reached this section in class, please check again in the coming months
 
 ## Bugs/issues
